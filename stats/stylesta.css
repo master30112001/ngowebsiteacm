@@ -1,0 +1,45 @@
+body{
+	background-color: #f4f4f4;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+	background-image: url('../images/bgbg.jpg');
+	
+	}
+
+.container{
+	width:60%;
+	margin:auto;
+	overflow:hidden;
+}
+#part1{
+	background: coral;
+	color: black;
+	padding: 10px;
+	margin: 40px;
+	border-radius: 10px;
+
+}
+#part2{
+	background: #333;
+	color: white;
+	padding: 10px;
+	margin: 40px;
+	border-radius: 10px;
+}
+#part3{
+	background: coral;
+	color: black;
+	padding: 10px;
+	margin: 40px;
+	border-radius: 10px;
+
+}
+#part4{
+	background: #333;
+	color: white;
+	padding: 10px;
+	margin: 40px;
+	border-radius: 10px;
+}

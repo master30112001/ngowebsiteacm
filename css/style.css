@@ -1,0 +1,127 @@
+body{
+	background-color: #f4f4f4;
+	color:#555;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#mainheader{
+	background-color:coral;
+	color:#fff;
+}
+
+#navigation{
+	background-color:#333;
+	color:#fff;
+}
+
+#navigation ul{
+	padding:0;
+	list-style: none;
+}
+
+#navigation li{
+	display: inline;
+}
+
+#navigation a{
+	color: white;
+	text-decoration: none;
+	padding-right: 20px;
+	font-size: 18px;
+}
+
+.clr{
+	clear:both;
+}
+
+#showcase{
+	
+	background-position: center;
+	background-repeat: no-repeat;
+	
+	width: 100%;
+	min-height:60px;
+	margin-top:5px;
+	margin-bottom: 30px;
+	text-align: center;
+	padding: 10px;
+	}
+#showcase h1{
+
+}
+
+
+#leftbar{
+	float: left;
+	width: 70%;
+	padding:0 30px;
+	box-sizing: border-box;
+}
+
+#rightbar{
+	float:right;
+	width:30%;
+	background: #333;
+	color:#fff;
+	padding:10px;
+	box-sizing: border-box;
+}
+
+#mainfooter{
+	background: #333;
+	color:#fff;
+	text-align: center;
+	padding:10px;
+	margin-top:40px;
+}
+
+@media(max-width:600px){
+	#leftbar{
+		width:100%;
+		float:none;
+	}
+
+	#rightbar{
+		width:100%;
+		float:none;
+	}
+}
+
+.Button{
+	background-color:#333;
+	color:#fff;
+	padding:10px 15px;
+	border:none;
+}
+
+.fixedb{
+	position: fixed;
+	text-decoration: none;
+	top: 400px;
+	
+
+}
+.Button:hover{
+	background:red;
+	color:#fff;
+}
+
+a:hover{
+	color:white;
+}
+
+#below{
+	border: 1px solid black;
+	margin-top: 40px;
+	padding:10px;
+}

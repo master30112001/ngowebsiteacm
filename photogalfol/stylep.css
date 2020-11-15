@@ -1,0 +1,166 @@
+body{
+	background-color: #f4f4f4;
+	color:#555;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+	background-image: url('../images/ab99.jpg');
+
+}
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#mainheader{
+	background-color:coral;
+	color:#fff;
+}
+
+#navigation{
+	background-color:#333;
+	color:#fff;
+}
+
+#navigation ul{
+	padding:0;
+	list-style: none;
+}
+
+#navigation li{
+	display: inline;
+}
+
+#navigation a{
+	color: white;
+	text-decoration: none;
+	padding-right: 20px;
+	font-size: 18px;
+}
+
+#img1{
+	border: 1px solid black;
+	float: left;
+	width: 500px;
+	height: 400px;
+	margin: 50px;
+	background-image: url('../images/aboutbg.png');
+	background-repeat: no-repeat;
+	background-position: center top;
+	border-radius: 10px;
+	background-size: auto;
+
+}
+#img1{
+	border: 1px solid black;
+	float: left;
+	width: 700px;
+	height: 400px;
+	margin: 50px;
+	background-image: url('../images/aboutbg.png');
+	background-repeat: no-repeat;
+	background-position: center top;
+	border-radius: 15px;
+	background-size: auto;
+
+}
+#img2{
+	border: 1px solid black;
+	float: right;
+	width: 900px;
+	height: 450px;
+	margin: 50px;
+	background-image: url('../images/ngo1.jpg');
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	border-radius: 15px;
+	background-size: auto;
+
+}
+#img3{
+	border: 1px solid black;
+	float: left;
+	width: 300px;
+	height: 200px;
+	margin: 50px;
+	background-image: url('../images/ngo5.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-radius: 15px;
+	background-size: auto;
+
+}
+#img4{
+	border: 1px solid black;
+	float: left;
+	width: 900px;
+	height: 500px;
+	margin: 50px;
+	background-image: url('../images/ngo3.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-radius: 15px;
+	background-size: auto;
+
+}
+#img5{
+	border: 1px solid black;
+	float: right;
+	width: 1024px;
+	height: 500px;
+	margin: 50px;
+	background-image: url('../images/ngo4.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-radius: 15px;
+	background-size: auto;
+
+}
+#img6{
+	border: 1px solid black;
+	float: left;
+	width: 300px;
+	height: 200px;
+	margin: 50px;
+	background-image: url('../images/ngo2.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-radius: 15px;
+	background-size: auto;
+
+}
+#img7{
+	border: 1px solid black;
+	float: right;
+	width: 300px;
+	height: 200px;
+	margin: 50px;
+	background-image: url('../images/ngo7.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-radius: 15px;
+	background-size: auto;
+
+}
+#img8{
+	border: 1px solid black;
+	float: left;
+	width: 300px;
+	height: 200px;
+	margin: 170px;
+	background-image: url('../images/ngo8.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-radius: 15px;
+	background-size: auto;
+
+
+}
+
+
+
+.clr{
+	clear:both;
+}
